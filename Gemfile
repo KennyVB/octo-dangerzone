@@ -48,3 +48,5 @@ gem 'omniauth-twitter'
 gem 'omniauth-facebook'
 
 gem 'dotenv', :groups => [:development, :test]
+
+gem 'devise-i18n'
