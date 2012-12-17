@@ -45,3 +45,6 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'simple-navigation'
 gem 'omniauth-twitter'
+gem 'omniauth-facebook'
+
+gem 'dotenv', :groups => [:development, :test]
